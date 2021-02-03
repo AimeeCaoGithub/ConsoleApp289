@@ -9,8 +9,6 @@
             Console.WriteLine("Hello World!");
             //tesgogm
             //tegign
-            //tegign
-            //tegign
         }
     }
 }
